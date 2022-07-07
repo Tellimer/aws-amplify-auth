@@ -1,4 +1,5 @@
-<img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="AWS Amplify" width="550" >
+<img src="https://user-images.githubusercontent.com/352761/177859520-99a278f1-9ca4-4587-9feb-90ee376230b1.png" alt="Open Source Fork" width="100" > <img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="AWS Amplify" width="550" >
+
 
 <a href="https://nodei.co/npm/@tellimer/aws-amplify-auth/">
   <img src="https://nodei.co/npm/@tellimer/aws-amplify-auth.svg?downloads=true&downloadRank=true&stars=true">
