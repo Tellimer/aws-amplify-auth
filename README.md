@@ -1,7 +1,7 @@
 <img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="AWS Amplify" width="550" >
 
-<a href="https://nodei.co/npm/aws-amplify/">
-  <img src="https://nodei.co/npm/aws-amplify.svg?downloads=true&downloadRank=true&stars=true">
+<a href="https://nodei.co/npm/@tellimer/aws-amplify-auth/">
+  <img src="https://nodei.co/npm/@tellimer/aws-amplify-auth.svg?downloads=true&downloadRank=true&stars=true">
 </a>
 <p>
   <a href="https://discord.gg/jWVbPfC" target="_blank">
