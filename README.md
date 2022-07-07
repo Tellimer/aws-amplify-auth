@@ -23,13 +23,11 @@
 [![Feature Requests](https://img.shields.io/github/issues/Tellimer/aws-amplify-auth/feature-request?color=ff9001&label=feature%20requests)](https://github.com/Tellimer/aws-amplify-auth/issues?q=is%3Aissue+label%3Afeature-request+is%3Aopen)
 [![Closed Issues](https://img.shields.io/github/issues-closed/Tellimer/aws-amplify-auth?color=%2325CC00&label=issues%20closed)](https://github.com/Tellimer/aws-amplify-auth/issues?q=is%3Aissue+is%3Aclosed+)
 
-### AWS Amplify is a JavaScript library for frontend and mobile developers building cloud-enabled applications
+### AWS Amplify Auth is a TypeScript library for frontend developers building cloud-enabled applications
 
-AWS Amplify provides a declarative and easy-to-use interface across different categories of cloud operations. AWS Amplify goes well with any JavaScript based frontend workflow and React Native for mobile developers.
+We forked AWS Amplify and decided to implement Tellimer specific flows in particular due to a split in approach as we used authentication accross multiple subdomains, as well as trying to get the library closer to Typescript native and away from web and mobile parity.
 
-Our default implementation works with Amazon Web Services (AWS), but AWS Amplify is designed to be open and pluggable for any custom backend or service.
-
-#### Visit our [Documentation site](https://docs.amplify.aws/) to learn more about AWS Amplify. Please see our [Amplify JavaScript](https://docs.amplify.aws/lib/q/platform/js/) page within our Documentation site for information around the full list of features we support.
+#### Visit AWS Amplify [Documentation site](https://docs.amplify.aws/) to learn more about AWS Amplify as we tried and maintained parity with most of the old functionality.
 
 - [Demo Applications](https://github.com/aws-amplify/amplify-js-samples)
 - [Contributing](https://github.com/Tellimer/aws-amplify-auth/blob/main/CONTRIBUTING.md)
